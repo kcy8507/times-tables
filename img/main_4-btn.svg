@@ -1,7 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
-    <g data-name="그룹 491" transform="translate(-734 -844)">
-        <rect data-name="사각형 74" width="220" height="220" rx="20" transform="translate(734 844)" style="fill:#69d974"/>
-        <path data-name="사각형 89" transform="translate(755 844)" style="fill:#f98c56" d="M0 0h58v58H0z"/>
-        <text data-name="4" transform="translate(784 892)" style="fill:#fff;font-size:44px;font-family:BRR,BR"><tspan x="-11.264" y="0">4</tspan></text>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 220 220" style="enable-background:new 0 0 220 220;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#69D974;}
+	.st1{fill:#F98C56;}
+	.st2{enable-background:new    ;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g transform="translate(-734 -844)">
+	<path class="st0" d="M754,844h180c11,0,20,9,20,20v180c0,11-9,20-20,20H754c-11,0-20-9-20-20V864C734,853,743,844,754,844z"/>
+	<path class="st1" d="M755,844h58v58h-58V844z"/>
+	<g class="st2">
+		<path class="st3" d="M786.8,882h-13.2v-4.3l11.9-19.4h7.2v18.8h3.5v4.8h-3.5v7.1h-5.9V882z M786.7,865.9l-6.6,11.1l6.7,0.1
+			L786.7,865.9z"/>
+	</g>
+</g>
 </svg>

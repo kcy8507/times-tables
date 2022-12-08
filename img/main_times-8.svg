@@ -1,6 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="323" height="323" viewBox="0 0 323 323">
-    <g data-name="그룹 503" transform="translate(-21 -6293)">
-        <circle data-name="타원 46" cx="161.5" cy="161.5" r="161.5" transform="translate(21 6293)" style="fill:#feae00"/>
-        <text data-name="8단" transform="translate(183 6420)" style="fill:#fff;font-size:107px;font-family:VAGRoundedStd-Black,VAG Rounded Std;font-weight:800"><tspan x="-54.721" y="0">8</tspan><tspan y="0" style="font-size:54px;font-family:CookieRunOTF-Regular,CookieRunOTF;font-weight:400">단</tspan></text>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 323 323" style="enable-background:new 0 0 323 323;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FEAE00;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g transform="translate(-21 -6293)">
+	<circle class="st0" cx="182.5" cy="6454.5" r="161.5"/>
+	<g class="st1">
+		<path class="st2" d="M132.6,6396.9c0-8.6,4.7-14.9,11.4-18.5c-5-3.6-8.1-8.6-8.1-15.3c0-12.5,10.4-20.5,23.1-20.5
+			c12.4,0,23.2,7.9,23.2,20.5c0,6-3,12-8.2,15.3c7.3,3.6,11.4,10.3,11.4,18.5c0,14.9-12.1,24.4-26.4,24.4
+			C144.2,6421.3,132.6,6411.2,132.6,6396.9z M149.2,6395.8c0,5.5,3.2,10.7,9.7,10.7c6.1,0,9.7-5.2,9.7-10.7c0-6.7-3.9-10.7-9.7-10.7
+			C152.8,6385.1,149.2,6389.8,149.2,6395.8z M151.3,6364.8c0,4.8,2.8,8.1,7.7,8.1s7.8-3.3,7.8-8.1c0-4.6-2.8-8.1-7.8-8.1
+			S151.3,6360.2,151.3,6364.8z"/>
+	</g>
+	<g class="st1">
+		<path class="st2" d="M218.6,6407.1c0,1.1-0.4,1.4-1.5,1.5l-22.4,0.5c-1.1,0.1-1.5-0.4-1.5-1.5l-0.4-25.1c0-1.1,0.4-1.5,1.5-1.5
+			l23.5-0.5c1.1,0,1.5,0.4,1.5,1.5v3.3c0,1.1-0.4,1.5-1.5,1.5l-18.2,0.4l0.2,15.5l17.2-0.4c1.1-0.1,1.5,0.4,1.5,1.5V6407.1z
+			 M201.7,6430.2c-1.1,0-1.5-0.4-1.5-1.5v-14.9c0-1.1,0.4-1.5,1.5-1.5h3.8c1.1,0,1.5,0.4,1.5,1.5v10l23.5-0.4c1,0,1.4,0.3,1.4,1.4
+			v3.5c0,1.1-0.3,1.4-1.3,1.4L201.7,6430.2z M231.9,6400v10.7c0,1.1-0.4,1.5-1.5,1.5h-3.8c-1.1,0-1.5-0.4-1.5-1.5v-28.2
+			c0-1.1,0.4-1.5,1.5-1.5h3.8c1.1,0,1.5,0.4,1.5,1.5v11.2l4-0.2c1-0.1,1.4,0.3,1.4,1.4v3.5c0,1.1-0.3,1.4-1.4,1.4L231.9,6400z"/>
+	</g>
+</g>
 </svg>
