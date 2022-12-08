@@ -1,0 +1,222 @@
+@charset "UTF-8";
+@import url(./reset.css);
+@import url("https://cdn.jsdelivr.net/npm/font-kopub@1.0/kopubdotum.min.css");
+@font-face {
+  font-family: "CookieRunRegular";
+  src: url("/css/CookieRun Regular.otf") format("truetype");
+}
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  font-size: 62.5%;
+  word-wrap: break-word;
+  word-break: keep-all;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  position: relative;
+  background-color: #eeffe9;
+  color: #373737;
+  font-family: "KoPub Dotum";
+  font-size: 4.1rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+.inner {
+  max-width: calc(100% - 4rem);
+  width: 99.2rem;
+  margin: 0 auto;
+  height: auto;
+  position: relative;
+}
+
+.hidden {
+  height: 31.7rem;
+  position: relative;
+}
+
+.header {
+  background-color: #83ff5d;
+  width: 100vw;
+  position: fixed;
+  z-index: 5;
+}
+.header .inner {
+  padding: 9.2rem 0;
+}
+.header img {
+  width: 87.9rem;
+  height: 12.5rem;
+}
+
+.main .inner {
+  padding: 3rem 0 17rem;
+  position: relative;
+  height: 100%;
+}
+.main__title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.main__title img {
+  width: 44.8rem;
+  height: 40.6rem;
+}
+.main__title p {
+  text-align: center;
+  line-height: 5.9rem;
+  font-weight: 400;
+  margin-left: -15px;
+}
+.main__title p span {
+  font-size: 5.6rem;
+  font-weight: 600;
+}
+.main__btns {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.main__btns-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.main__btns .btn__img {
+  width: calc(25% - 2.4rem);
+  position: relative;
+}
+.main__btns .btn__img img {
+  width: 100%;
+}
+.main__btns .btn__img p {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "CookieRunRegular";
+  font-size: 4.8rem;
+  line-height: 5.4rem;
+  color: white;
+}
+
+/* 부모요소 */
+.main__times-tables--wrapper {
+  position: relative;
+  padding-top: 56%;
+  width: 100%;
+  height: 0;
+  margin-top: 30.6rem;
+}
+.main__times-tables .title {
+  position: absolute;
+  top: -16.1rem;
+}
+.main__times-tables .title img {
+  width: 32.3rem;
+  height: 32.3rem;
+}
+.main__times-tables .video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.footer {
+  width: 100vw;
+  height: 27.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #83ff5d;
+}
+.footer img {
+  width: 47.6rem;
+  height: 10.4rem;
+}
+
+@media screen and (max-width: 957px) {
+  html {
+    font-size: 50%;
+  }
+  .header img {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .inner {
+    max-width: calc(100% - 5rem);
+  }
+  .header .inner {
+    padding: 7.1rem 0 2.8rem 0;
+  }
+  .header img {
+    width: 32.7rem;
+    height: 4.6rem;
+  }
+  .hidden {
+    height: 15.3rem;
+  }
+  .main .inner {
+    padding: 3rem 0 5.6rem;
+    position: relative;
+    height: 100%;
+    width: 37.5rem;
+  }
+  .main__title img {
+    width: 16.2rem;
+    height: 14.7rem;
+  }
+  .main__title p {
+    font-size: 1.4rem;
+    line-height: 2rem;
+    margin-left: 0px;
+  }
+  .main__title p span {
+    font-size: 1.9rem;
+    font-weight: 600;
+  }
+  .main__btns .btn__img {
+    width: calc(25% - 0.7rem);
+    position: relative;
+  }
+  .main__btns .btn__img p {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+    color: white;
+  }
+  .main__times-tables .title {
+    top: -6.4rem;
+  }
+  .main__times-tables .title img {
+    width: 12.8rem;
+    height: 12.8rem;
+  }
+  .main__times-tables--wrapper {
+    margin-top: 11.4rem;
+  }
+  .footer {
+    height: 10.1rem;
+  }
+  .footer img {
+    width: 17.7rem;
+    height: 3.9rem;
+  }
+}/*# sourceMappingURL=style.css.map */

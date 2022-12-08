@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="323" height="323" viewBox="0 0 323 323">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #feae00;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 107px;
+        font-family: VAGRoundedStd-Black, VAG Rounded Std;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        font-size: 54px;
+        font-family: CookieRunOTF-Regular, CookieRunOTF;
+        font-weight: 400;
+      }
+    </style>
+  </defs>
+  <g id="그룹_501" data-name="그룹 501" transform="translate(-21 -4565)">
+    <circle id="타원_43" data-name="타원 43" class="cls-1" cx="161.5" cy="161.5" r="161.5" transform="translate(21 4565)"/>
+    <text id="_6단" data-name="6단" class="cls-2" transform="translate(183 4692)"><tspan x="-53.758" y="0">6</tspan><tspan class="cls-3" y="0">단</tspan></text>
+  </g>
+</svg>
