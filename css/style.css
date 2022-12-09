@@ -132,6 +132,13 @@ button {
   width: 32.3rem;
   height: 32.3rem;
 }
+.main__times-tables .video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 .main__times-tables .video iframe {
   position: absolute;
   top: 0;
